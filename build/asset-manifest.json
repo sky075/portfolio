@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sky075/portfolio.git/static/css/main.6a84fb49.css",
+    "main.js": "/sky075/portfolio.git/static/js/main.e314f681.js",
+    "static/js/787.37a6f9e7.chunk.js": "/sky075/portfolio.git/static/js/787.37a6f9e7.chunk.js",
+    "index.html": "/sky075/portfolio.git/index.html",
+    "main.6a84fb49.css.map": "/sky075/portfolio.git/static/css/main.6a84fb49.css.map",
+    "main.e314f681.js.map": "/sky075/portfolio.git/static/js/main.e314f681.js.map",
+    "787.37a6f9e7.chunk.js.map": "/sky075/portfolio.git/static/js/787.37a6f9e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a84fb49.css",
+    "static/js/main.e314f681.js"
+  ]
+}
